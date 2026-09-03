@@ -1,11 +1,13 @@
 about:
-  description: Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
+  description:
+  |
+    Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
   license: Apache-2.0
   homepage: https://projects.mindforger.com/
   head: 210b39c
   archived: false
   latestVersion: v3.2
-  collectedAt: 2026-09-03T05:17:22Z
+  collectedAt: 2026-09-03T22:37:51Z
 timeline:
   created: 2013-12-02
   lastCommit: 2026-08-28
@@ -26,7 +28,7 @@ language:
   Makefile: 4996
   M4: 4900
   QMake: 3589
-totalLine: 529942
+totalBytes: 529942
 recent:
   last30d:
     since: 2026-08-04
