@@ -1,0 +1,1107 @@
+- repo: alpine_3_17
+  subrepo: community
+  srcname: hstr
+  binname: hstr-bash-completion
+  visiblename: hstr-bash-completion
+  version: "2.5"
+  origversion: 2.5-r0
+  status: outdated
+  summary: Bash completions for hstr
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: hstr
+  binname: hstr
+  visiblename: hstr
+  version: "2.5"
+  origversion: 2.5-r0
+  status: outdated
+  summary: Bash and ZSH shell history suggest box
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: hstr
+  binname: hstr-doc
+  visiblename: hstr-doc
+  version: "2.5"
+  origversion: 2.5-r0
+  status: outdated
+  summary: Bash and ZSH shell history suggest box (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: hstr
+  binname: hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-r0
+  status: outdated
+  summary: Bash and ZSH shell history suggest box
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: homebrew
+  srcname: hstr
+  visiblename: hstr
+  version: "3.2"
+  origversion: null
+  status: newest
+  summary: Bash and zsh history suggest box
+- repo: alpine_3_18
+  subrepo: community
+  srcname: hstr
+  binname: hstr-bash-completion
+  visiblename: hstr-bash-completion
+  version: "3.1"
+  origversion: 3.1-r0
+  status: outdated
+  summary: Bash completions for hstr
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: hstr
+  binname: hstr-doc
+  visiblename: hstr-doc
+  version: "3.1"
+  origversion: 3.1-r0
+  status: outdated
+  summary: Bash and ZSH shell history suggest box (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: hstr
+  binname: hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-r0
+  status: outdated
+  summary: Bash and ZSH shell history suggest box
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: hstr
+  binname: hstr-bash-completion
+  visiblename: hstr-bash-completion
+  version: "3.1"
+  origversion: 3.1-r0
+  status: outdated
+  summary: Bash completions for hstr
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: hstr
+  binname: hstr-doc
+  visiblename: hstr-doc
+  version: "3.1"
+  origversion: 3.1-r0
+  status: outdated
+  summary: Bash and ZSH shell history suggest box (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: hstr
+  binname: hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-r0
+  status: outdated
+  summary: Bash and ZSH shell history suggest box
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: hstr
+  binname: hstr-bash-completion
+  visiblename: hstr-bash-completion
+  version: "3.1"
+  origversion: 3.1-r0
+  status: outdated
+  summary: Bash completions for hstr
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: hstr
+  binname: hstr-doc
+  visiblename: hstr-doc
+  version: "3.1"
+  origversion: 3.1-r0
+  status: outdated
+  summary: Bash and ZSH shell history suggest box (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: hstr
+  binname: hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-r0
+  status: outdated
+  summary: Bash and ZSH shell history suggest box
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: hstr
+  binname: hstr-bash-completion
+  visiblename: hstr-bash-completion
+  version: "3.1"
+  origversion: 3.1-r0
+  status: outdated
+  summary: Bash completions for hstr
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: hstr
+  binname: hstr-doc
+  visiblename: hstr-doc
+  version: "3.1"
+  origversion: 3.1-r0
+  status: outdated
+  summary: Bash and ZSH shell history suggest box (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: kali_rolling
+  subrepo: main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: alpine_3_22
+  subrepo: community
+  srcname: hstr
+  binname: hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-r0
+  status: outdated
+  summary: Bash and ZSH shell history suggest box
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: hstr
+  binname: hstr-bash-completion
+  visiblename: hstr-bash-completion
+  version: "3.1"
+  origversion: 3.1-r0
+  status: outdated
+  summary: Bash completions for hstr
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: hstr
+  binname: hstr-doc
+  visiblename: hstr-doc
+  version: "3.1"
+  origversion: 3.1-r0
+  status: outdated
+  summary: Bash and ZSH shell history suggest box (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: hstr
+  binname: hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-r0
+  status: outdated
+  summary: Bash and ZSH shell history suggest box
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: hstr
+  binname: hstr-bash-completion
+  visiblename: hstr-bash-completion
+  version: "3.1"
+  origversion: 3.1-r0
+  status: outdated
+  summary: Bash completions for hstr
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: hstr
+  binname: hstr-doc
+  visiblename: hstr-doc
+  version: "3.1"
+  origversion: 3.1-r0
+  status: outdated
+  summary: Bash and ZSH shell history suggest box (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: hstr
+  binname: hstr
+  visiblename: hstr
+  version: "3.2"
+  origversion: 3.2-r0
+  status: newest
+  summary: Bash and ZSH shell history suggest box
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: hstr
+  binname: hstr-bash-completion
+  visiblename: hstr-bash-completion
+  version: "3.2"
+  origversion: 3.2-r0
+  status: newest
+  summary: Bash completions for hstr
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: hstr
+  binname: hstr-doc
+  visiblename: hstr-doc
+  version: "3.2"
+  origversion: 3.2-r0
+  status: newest
+  summary: Bash and ZSH shell history suggest box (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: hstr
+  binname: hstr
+  visiblename: hstr
+  version: "3.2"
+  origversion: 3.2-r0
+  status: newest
+  summary: Bash and ZSH shell history suggest box
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: hstr
+  binname: hstr-bash-completion
+  visiblename: hstr-bash-completion
+  version: "3.2"
+  origversion: 3.2-r0
+  status: newest
+  summary: Bash completions for hstr
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: hstr
+  binname: hstr-doc
+  visiblename: hstr-doc
+  version: "3.2"
+  origversion: 3.2-r0
+  status: newest
+  summary: Bash and ZSH shell history suggest box (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
+- repo: alt_p11
+  srcname: hstr
+  binnames:
+    - hstr
+    - hstr-debuginfo
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-alt2
+  status: outdated
+  summary: Suggest box like shell history completion
+  maintainers:
+    - zeff@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Terminals
+- repo: altsisyphus
+  srcname: hstr
+  binnames:
+    - hstr
+    - hstr-debuginfo
+  visiblename: hstr
+  version: "3.2"
+  origversion: 3.2-alt1
+  status: newest
+  summary: Suggest box like shell history completion
+  maintainers:
+    - zeff@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Terminals
+- repo: aur
+  srcname: hstr
+  binname: hstr
+  visiblename: hstr
+  version: "3.2"
+  origversion: 3.2-1
+  status: newest
+  summary: Bash and Zsh shell history suggest box - easily view, navigate, search and manage your command history.
+  maintainers:
+    - itsme@aur
+    - fastgar@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: hstr-git
+  binname: hstr-git
+  visiblename: hstr-git
+  version: 2.3.r3.g6507ac7
+  origversion: 2.3.r3.g6507ac7-1
+  status: rolling
+  summary: Bash and Zsh shell history suggest box - easily view, navigate, search and manage your command history
+  maintainers:
+    - willemw@aur
+  licenses:
+    - Apache
+- repo: debian_11
+  subrepo: bullseye/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "2.3"
+  origversion: 2.3+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "2.6"
+  origversion: 2.6+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: community
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - utils
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "2.3"
+  origversion: 2.3+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: epel_7
+  srcname: hstr
+  visiblename: hstr
+  version: "1.19"
+  origversion: 1.19-1.el7
+  status: outdated
+  summary: Suggest box like shell history completion
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: epel_8
+  srcname: hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-1.el8
+  status: outdated
+  summary: Suggest box like shell history completion
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: epel_9
+  srcname: hstr
+  binnames:
+    - hstr
+    - hstr-debuginfo
+    - hstr-debugsource
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-1.el9
+  status: outdated
+  summary: Suggest box like shell history completion
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: epel_10
+  srcname: hstr
+  binnames:
+    - hstr
+    - hstr-debuginfo
+    - hstr-debugsource
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-4.el10_0
+  status: outdated
+  summary: Suggest box like shell history completion
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: release
+  srcname: hstr
+  binnames:
+    - hstr
+    - hstr-debuginfo
+    - hstr-debugsource
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-1.fc39
+  status: outdated
+  summary: Suggest box like shell history completion
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: release
+  srcname: hstr
+  binnames:
+    - hstr
+    - hstr-debuginfo
+    - hstr-debugsource
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-3.fc40
+  status: outdated
+  summary: Suggest box like shell history completion
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: release
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-4.fc41
+  status: outdated
+  summary: Suggest box like shell history completion
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-5.fc42
+  status: outdated
+  summary: Suggest box like shell history completion
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-6.fc43
+  status: outdated
+  summary: Suggest box like shell history completion
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-7.fc44
+  status: outdated
+  summary: Suggest box like shell history completion
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_rawhide
+  subrepo: development
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-8.fc45
+  status: outdated
+  summary: Suggest box like shell history completion
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: freebsd
+  srcname: sysutils/hstr
+  binname: hstr
+  visiblename: sysutils/hstr
+  version: "3.1"
+  origversion: null
+  status: outdated
+  summary: Bash and Zsh shell history suggest box
+  maintainers:
+    - monsieurp@gentoo.org
+  categories:
+    - sysutils
+- repo: gentoo
+  srcname: app-shells/hstr
+  visiblename: app-shells/hstr
+  version: "2.6"
+  origversion: null
+  status: outdated
+  summary: Shell history suggest box
+  maintainers:
+    - shell-tools@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - app-shells
+- repo: gnuguix
+  srcname: hstr
+  binname: hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: null
+  status: outdated
+  summary: Navigate and search command history with shell history suggest box
+- repo: haikuports_master
+  srcname: app-shells/hstr
+  visiblename: app-shells/hstr
+  version: "3.1"
+  origversion: null
+  status: outdated
+  categories:
+    - app-shells
+- repo: liguros_stable
+  srcname: app-shells/hstr
+  visiblename: app-shells/hstr
+  version: "2.6"
+  origversion: null
+  status: outdated
+  summary: Shell history suggest box
+  maintainers:
+    - shell-tools@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - app-shells
+- repo: liguros_develop
+  srcname: app-shells/hstr
+  visiblename: app-shells/hstr
+  version: "2.6"
+  origversion: null
+  status: outdated
+  summary: Shell history suggest box
+  maintainers:
+    - shell-tools@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - app-shells
+- repo: macports
+  srcname: shells/hstr
+  binname: hstr
+  visiblename: hstr
+  version: 3.2.0
+  origversion: null
+  status: newest
+  summary: Bash and Zsh shell history suggest box
+  maintainers:
+    - ryandesign@macports
+    - ryandesign@github
+    - herbygillot@github
+  licenses:
+    - Apache-2
+  categories:
+    - shells
+- repo: nix_stable_24_05
+  srcname: hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: null
+  status: outdated
+  summary: Shell history suggest box - easily view, navigate, search and use your command history
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: null
+  status: outdated
+  summary: Shell history suggest box - easily view, navigate, search and use your command history
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: null
+  status: outdated
+  summary: Shell history suggest box - easily view, navigate, search and use your command history
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: null
+  status: outdated
+  summary: Shell history suggest box - easily view, navigate, search and use your command history
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: null
+  status: outdated
+  summary: Shell history suggest box - easily view, navigate, search and use your command history
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: hstr
+  visiblename: hstr
+  version: "3.2"
+  origversion: null
+  status: newest
+  summary: Shell history suggest box - easily view, navigate, search and use your command history
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - Apache-2.0
+- repo: pardus_21
+  subrepo: main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "2.3"
+  origversion: 2.3+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "2.3"
+  origversion: 2.3+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - utils
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - utils
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "2.6"
+  origversion: 2.6+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: rosa_2019_1
+  subrepo: contrib/release
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "2.5"
+  origversion: 2.5-1
+  status: outdated
+  summary: Suggest box like shell history completion
+  maintainers:
+    - alexander@mezon.ru
+  licenses:
+    - ASL 2.0
+  categories:
+    - Terminals
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: hstr
+  binnames:
+    - hstr
+    - hstr-debuginfo
+    - hstr-debugsource
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-1
+  status: outdated
+  summary: Suggest box like shell history completion
+  maintainers:
+    - alexander@mezon.ru
+  licenses:
+    - ASL 2.0
+  categories:
+    - Terminals
+- repo: slackbuilds
+  srcname: system/hstr
+  visiblename: system/hstr
+  version: "3.1"
+  origversion: null
+  status: outdated
+  maintainers:
+    - zhu.qunying@gmail.com
+  categories:
+    - system
+- repo: spack
+  srcname: hstr
+  visiblename: hstr
+  version: "1.22"
+  origversion: null
+  status: outdated
+  maintainers:
+    - fallback-mnt-spack@repology
+  licenses:
+    - Apache-2.0
+- repo: termux
+  srcname: hstr
+  binname: hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: null
+  status: outdated
+  summary: Shell history suggest box for bash and zsh
+  maintainers:
+    - termux@github
+- repo: trisquel_11_0
+  subrepo: aramo/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "2.5"
+  origversion: 2.5+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "2.5"
+  origversion: 2.5+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1build2
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1build2
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1build2
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1build3
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1build3
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/misc
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: hstr
+  binname: hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: "3.1_1"
+  status: outdated
+  summary: Easily view, navigate, search and manage your command history
+  maintainers:
+    - neel@chot.ai
+  licenses:
+    - Apache-2.0
