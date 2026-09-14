@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 1 | 3 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 1 | 3 |
-| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 1 | 3 |
-| last180d | 2026-03-17 | 0 | 0 | 0 | 0 | 2 | 8 |
-| 360d | 2025-09-18 | 1 | 5 | 4 | 3 | 10 | 39 |
-| last720d | 2024-09-23 | 1 | 6 | 7 | 6 | 19 | 46 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 1 | 3 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 1 | 3 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 0 | 1 | 3 |
+| last180d | 2026-03-18 | 0 | 0 | 0 | 0 | 2 | 8 |
+| 360d | 2025-09-19 | 1 | 5 | 4 | 3 | 10 | 39 |
+| last720d | 2024-09-24 | 1 | 6 | 7 | 6 | 19 | 46 |
 
 ## Release assets
 
@@ -72,23 +72,6 @@ Lowest-scoring checks:
 | [hstr-3.2.0-bin-64b.tgz](https://github.com/dvorka/hstr/releases/download/v3.2/hstr-3.2.0-bin-64b.tgz) | 25.4 KiB | `native/unknown` |
 | [hstr-3.2.0-tarball.tgz](https://github.com/dvorka/hstr/releases/download/v3.2/hstr-3.2.0-tarball.tgz) | 172.0 KiB | `native/unknown` |
 | [hstr_3.2.0-1_amd64.deb](https://github.com/dvorka/hstr/releases/download/v3.2/hstr_3.2.0-1_amd64.deb) | 30.6 KiB | `runtime/deb/amd64` |
-
-## Distribution status
-
-Reported by **86** distros on [repology.org](https://repology.org/project/hstr). **12** are ✅ on the latest upstream release, **73** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `3.1` | ⚠️ outdated |
-| Debian 14 | `3.1` | ⚠️ outdated |
-| Debian 13 | `3.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `3.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `3.1` | ⚠️ outdated |
-| Homebrew | `3.2` | ✅ latest |
-| Fedora rawhide | `3.1` | ⚠️ outdated |
-| Nix unstable | `3.2` | ✅ latest |
-| Void | `3.2` | ✅ latest |
-| Alpine edge | `3.2` | ✅ latest |
 
 ## Improve this data
 
@@ -99,4 +82,4 @@ Install metadata for hstr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:23:26Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:34:31Z._
