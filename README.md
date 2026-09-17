@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.2` (2026-02-06)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-16
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 4,460 · **Forks**: 238 · **Open issues**: 441 · **Contributors**: 51
+- **Stars**: 4,461 · **Forks**: 238 · **Open issues**: 441 · **Contributors**: 51
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 88 · **Open PRs**: 17 · **Closed issues**: 272 · **Open issues**: 169 · **Commits**: 883
+- **Releases**: 25 · **Merged PRs**: 88 · **Open PRs**: 17 · **Closed issues**: 272 · **Open issues**: 169 · **Commits**: 884
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 0 | 0 | 1 | 3 |
-| last60d | 2026-07-18 | 0 | 0 | 0 | 0 | 1 | 3 |
-| 90d | 2026-06-18 | 0 | 0 | 0 | 0 | 1 | 3 |
-| last180d | 2026-03-20 | 0 | 0 | 0 | 0 | 2 | 8 |
-| 360d | 2025-09-21 | 1 | 5 | 4 | 3 | 10 | 39 |
-| last720d | 2024-09-26 | 1 | 6 | 7 | 6 | 19 | 46 |
+| 30d | 2026-08-18 | 0 | 0 | 0 | 0 | 1 | 4 |
+| last60d | 2026-07-19 | 0 | 0 | 0 | 0 | 1 | 4 |
+| 90d | 2026-06-19 | 0 | 0 | 0 | 0 | 1 | 4 |
+| last180d | 2026-03-21 | 0 | 0 | 0 | 0 | 2 | 9 |
+| 360d | 2025-09-22 | 1 | 5 | 4 | 3 | 10 | 40 |
+| last720d | 2024-09-27 | 1 | 6 | 7 | 6 | 19 | 47 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for hstr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:38:01Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:49:35Z._
