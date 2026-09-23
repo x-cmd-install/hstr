@@ -4,7 +4,7 @@
 
 Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 
-[![x-cmd/install — hstr Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hstr.svg)](https://x-cmd.com/install/hstr)
+[![x-cmd/install — hstr Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/hstr.svg)](https://x-cmd.com/install/hstr)
 
 ## Install
 
@@ -26,13 +26,13 @@ Total: **8,695** lines of code across **70** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.4 / 10**
+Overall score: **3.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/13 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Maintained** (4/10) — 4 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (3/10) — 3 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 3
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,464 · **Forks**: 238 · **Open issues**: 441 · **Contributors**: 51
+- **Stars**: 4,464 · **Forks**: 239 · **Open issues**: 441 · **Contributors**: 51
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 88 · **Open PRs**: 17 · **Closed issues**: 272 · **Open issues**: 169 · **Commits**: 884
+- **Releases**: 25 · **Merged PRs**: 88 · **Open PRs**: 18 · **Closed issues**: 272 · **Open issues**: 169 · **Commits**: 884
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 360d | 2025-09-27 | 1 | 5 | 4 | 3 | 10 | 0 |
-| last720d | 2024-10-02 | 1 | 6 | 7 | 6 | 19 | 47 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 1 | 4 |
+| last60d | 2026-07-25 | 0 | 0 | 1 | 0 | 1 | 4 |
+| 90d | 2026-06-25 | 0 | 0 | 1 | 0 | 1 | 4 |
+| last180d | 2026-03-27 | 0 | 0 | 1 | 0 | 2 | 9 |
+| 360d | 2025-09-28 | 1 | 5 | 5 | 3 | 10 | 40 |
+| last720d | 2024-10-03 | 1 | 6 | 8 | 6 | 19 | 47 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for hstr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:42:30Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:37:33Z._
