@@ -30,9 +30,9 @@ Overall score: **3.5 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Maintained** (4/10) — 4 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (4/10) — 4 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 4
+- **Code-Review** (0/10) — Found 0/14 approved changesets -- score normalized to 0
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,465 · **Forks**: 239 · **Open issues**: 441 · **Contributors**: 51
+- **Stars**: 4,465 · **Forks**: 240 · **Open issues**: 441 · **Contributors**: 51
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 88 · **Open PRs**: 18 · **Closed issues**: 272 · **Open issues**: 169 · **Commits**: 884
+- **Releases**: 25 · **Merged PRs**: 88 · **Open PRs**: 19 · **Closed issues**: 272 · **Open issues**: 169 · **Commits**: 884
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 0 | 1 | 0 | 1 | 3 |
-| last60d | 2026-07-29 | 0 | 0 | 1 | 0 | 1 | 4 |
-| 90d | 2026-06-29 | 0 | 0 | 1 | 0 | 1 | 4 |
-| last180d | 2026-03-31 | 0 | 0 | 1 | 0 | 2 | 9 |
-| 360d | 2025-10-02 | 1 | 5 | 5 | 3 | 10 | 40 |
-| last720d | 2024-10-07 | 1 | 6 | 8 | 6 | 19 | 47 |
+| 30d | 2026-08-29 | 0 | 0 | 2 | 0 | 1 | 3 |
+| last60d | 2026-07-30 | 0 | 0 | 2 | 0 | 1 | 4 |
+| 90d | 2026-06-30 | 0 | 0 | 2 | 0 | 1 | 4 |
+| last180d | 2026-04-01 | 0 | 0 | 2 | 0 | 2 | 9 |
+| 360d | 2025-10-03 | 1 | 5 | 6 | 3 | 10 | 40 |
+| last720d | 2024-10-08 | 1 | 6 | 9 | 6 | 19 | 47 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for hstr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:33:49Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:40:39Z._
