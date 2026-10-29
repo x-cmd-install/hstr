@@ -24,32 +24,6 @@
     - epsilon@debian.org
   categories:
     - misc
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "2.3"
-  origversion: 2.3+ds-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1+ds-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - misc
 - repo: alpine_3_17
   subrepo: community
   srcname: hstr
@@ -206,17 +180,6 @@
     - jakub@jirutka.cz
   licenses:
     - Apache-2.0
-- repo: epel_7
-  srcname: hstr
-  visiblename: hstr
-  version: "1.19"
-  origversion: 1.19-1.el7
-  status: outdated
-  summary: Suggest box like shell history completion
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
 - repo: alpine_3_21
   subrepo: community
   srcname: hstr
@@ -521,43 +484,6 @@
     - epsilon@debian.org
   categories:
     - misc
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1+ds-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - misc
-- repo: deepin_25
-  subrepo: community
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1+ds-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - utils
-- repo: epel_8
-  srcname: hstr
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1-1.el8
-  status: outdated
-  summary: Suggest box like shell history completion
-  licenses:
-    - Apache-2.0
-  categories:
-    - Unspecified
 - repo: epel_9
   srcname: hstr
   binnames:
@@ -872,71 +798,6 @@
     - mail@beyermatthias.de
   licenses:
     - Apache-2.0
-- repo: pardus_21
-  subrepo: main
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "2.3"
-  origversion: 2.3+ds-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1+ds-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot/main
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1+ds-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - misc
-- repo: pureos_byzantium
-  subrepo: byzantium/main
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "2.3"
-  origversion: 2.3+ds-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - utils
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1+ds-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - utils
 - repo: rosa_2019_1
   subrepo: contrib/release
   srcname: hstr
@@ -1103,3 +964,142 @@
   summary: Shell history suggest box
   categories:
     - Utils
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "2.3"
+  origversion: 2.3+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: epel_7
+  srcname: hstr
+  visiblename: hstr
+  version: "1.19"
+  origversion: 1.19-1.el7
+  status: outdated
+  summary: Suggest box like shell history completion
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: community
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - utils
+- repo: epel_8
+  srcname: hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-1.el8
+  status: outdated
+  summary: Suggest box like shell history completion
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: pardus_21
+  subrepo: main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "2.3"
+  origversion: 2.3+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "2.3"
+  origversion: 2.3+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - utils
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - utils
