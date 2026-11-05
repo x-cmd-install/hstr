@@ -14,14 +14,14 @@ x install hstr
 
 ## 代码洞察
 
-合计: **8,695** 行代码（覆盖前 5 种语言、共 **70** 个文件）。
+合计: **10,188** 行代码（覆盖前 5 种语言、共 **75** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| C | 4,951 | 548 | 621 | 17 |
-| CHeader | 1,306 | 607 | 259 | 12 |
-| Html | 1,083 | 0 | 71 | 5 |
-| Sh | 609 | 962 | 272 | 34 |
+| C | 5,737 | 742 | 776 | 18 |
+| CHeader | 1,368 | 635 | 270 | 13 |
+| Html | 1,086 | 0 | 71 | 5 |
+| Sh | 1,005 | 1,155 | 335 | 37 |
 | Ruby | 415 | 16 | 35 | 2 |
 
 ## OpenSSF Scorecard 评分
@@ -42,40 +42,44 @@ x install hstr
 
 ## 发布
 
-- **最新版本**: `v3.2` (2026-02-06)
-- **最近提交**: 2026-09-16
-- **Release 含资产**: 3 个
+- **最新版本**: `v.3.3` (2026-11-04)
+- **最近提交**: 2026-11-04
+- **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 4,465 · **Fork**: 241 · **开放 issue**: 441 · **贡献者**: 51
+- **Star**: 4,464 · **Fork**: 241 · **开放 issue**: 441 · **贡献者**: 53
 
 ## 累计统计
 
-- **发布数**: 25 · **已合并 PR**: 95 · **开放 PR**: 13 · **已关闭 issue**: 272 · **开放 issue**: 169 · **提交数**: 884
+- **发布数**: 26 · **已合并 PR**: 96 · **开放 PR**: 12 · **已关闭 issue**: 272 · **开放 issue**: 169 · **提交数**: 902
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 4 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 0 | 5 | 2 | 0 | 1 | 3 |
-| 90d | 2026-08-06 | 0 | 5 | 2 | 0 | 1 | 4 |
-| last180d | 2026-05-08 | 0 | 5 | 2 | 0 | 2 | 9 |
-| 360d | 2025-11-09 | 1 | 10 | 4 | 3 | 8 | 40 |
-| last720d | 2024-11-14 | 1 | 11 | 5 | 5 | 19 | 47 |
+| 30d | 2026-10-06 | 1 | 5 | 0 | 0 | 0 | 17 |
+| last60d | 2026-09-06 | 1 | 6 | 1 | 0 | 1 | 20 |
+| 90d | 2026-08-07 | 1 | 6 | 1 | 0 | 1 | 21 |
+| last180d | 2026-05-09 | 1 | 6 | 1 | 0 | 2 | 26 |
+| 360d | 2025-11-10 | 2 | 11 | 3 | 3 | 8 | 57 |
+| last720d | 2024-11-15 | 2 | 12 | 4 | 5 | 19 | 65 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [hstr-3.2.0-bin-64b.tgz](https://github.com/dvorka/hstr/releases/download/v3.2/hstr-3.2.0-bin-64b.tgz) | 25.4 KiB | `native/unknown` |
-| [hstr-3.2.0-tarball.tgz](https://github.com/dvorka/hstr/releases/download/v3.2/hstr-3.2.0-tarball.tgz) | 172.0 KiB | `native/unknown` |
-| [hstr_3.2.0-1_amd64.deb](https://github.com/dvorka/hstr/releases/download/v3.2/hstr_3.2.0-1_amd64.deb) | 30.6 KiB | `runtime/deb/amd64` |
+| [hstr-3.3.0-1.fc44.src.rpm](https://github.com/dvorka/hstr/releases/download/v.3.3/hstr-3.3.0-1.fc44.src.rpm) | 192.5 KiB | `other` |
+| [hstr-3.3.0-1.fc44.x86_64.rpm](https://github.com/dvorka/hstr/releases/download/v.3.3/hstr-3.3.0-1.fc44.x86_64.rpm) | 52.1 KiB | `runtime/rpm/x86_64` |
+| [hstr-3.3.0-1.fc45.src.rpm](https://github.com/dvorka/hstr/releases/download/v.3.3/hstr-3.3.0-1.fc45.src.rpm) | 192.5 KiB | `other` |
+| [hstr-3.3.0-1.fc45.x86_64.rpm](https://github.com/dvorka/hstr/releases/download/v.3.3/hstr-3.3.0-1.fc45.x86_64.rpm) | 52.2 KiB | `runtime/rpm/x86_64` |
+| [hstr-3.3.0-bin-64b.tgz](https://github.com/dvorka/hstr/releases/download/v.3.3/hstr-3.3.0-bin-64b.tgz) | 27.0 KiB | `native/unknown` |
+| [hstr-3.3.0-tarball.tgz](https://github.com/dvorka/hstr/releases/download/v.3.3/hstr-3.3.0-tarball.tgz) | 177.8 KiB | `native/unknown` |
+| [hstr_3.3.0-1_amd64.deb](https://github.com/dvorka/hstr/releases/download/v.3.3/hstr_3.3.0-1_amd64.deb) | 33.0 KiB | `runtime/deb/amd64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/hstr) 上共有 **86** 个发行版报告此项目。**13** 个 ✅ 已是最新上游版本，**72** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/hstr) 上共有 **86** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**84** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -84,11 +88,11 @@ x install hstr
 | Debian 13 | `3.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `3.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `3.1` | ⚠️ outdated |
-| Homebrew | `3.2` | ✅ latest |
+| Homebrew | `3.2` | ⚠️ outdated |
 | Fedora rawhide | `3.1` | ⚠️ outdated |
-| Nix unstable | `3.2` | ✅ latest |
-| Void | `3.2` | ✅ latest |
-| Alpine edge | `3.2` | ✅ latest |
+| Nix unstable | `3.2` | ⚠️ outdated |
+| Void | `3.2` | ⚠️ outdated |
+| Alpine edge | `3.2` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -99,4 +103,4 @@ hstr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T07:44:22Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T08:01:16Z._
