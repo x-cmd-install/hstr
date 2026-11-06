@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,464 · **Forks**: 241 · **Open issues**: 441 · **Contributors**: 53
+- **Stars**: 4,464 · **Forks**: 241 · **Open issues**: 442 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 96 · **Open PRs**: 12 · **Closed issues**: 272 · **Open issues**: 169 · **Commits**: 902
+- **Releases**: 26 · **Merged PRs**: 96 · **Open PRs**: 12 · **Closed issues**: 272 · **Open issues**: 170 · **Commits**: 902
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 1 | 5 | 0 | 0 | 0 | 17 |
-| last60d | 2026-09-06 | 1 | 6 | 1 | 0 | 1 | 20 |
-| 90d | 2026-08-07 | 1 | 6 | 1 | 0 | 1 | 21 |
-| last180d | 2026-05-09 | 1 | 6 | 1 | 0 | 2 | 26 |
-| 360d | 2025-11-10 | 2 | 11 | 3 | 3 | 8 | 57 |
-| last720d | 2024-11-15 | 2 | 12 | 4 | 5 | 19 | 65 |
+| 30d | 2026-10-07 | 1 | 5 | 0 | 0 | 1 | 17 |
+| last60d | 2026-09-07 | 1 | 6 | 1 | 0 | 1 | 20 |
+| 90d | 2026-08-08 | 1 | 6 | 1 | 0 | 2 | 21 |
+| last180d | 2026-05-10 | 1 | 6 | 1 | 0 | 3 | 26 |
+| 360d | 2025-11-11 | 2 | 11 | 3 | 3 | 9 | 57 |
+| last720d | 2024-11-16 | 2 | 12 | 4 | 5 | 20 | 65 |
 
 ## Release assets
 
@@ -79,7 +79,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **86** distros on [repology.org](https://repology.org/project/hstr). **1** are ✅ on the latest upstream release, **84** are ⚠️ on an older version.
+Reported by **86** distros on [repology.org](https://repology.org/project/hstr). **3** are ✅ on the latest upstream release, **82** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -88,7 +88,7 @@ Reported by **86** distros on [repology.org](https://repology.org/project/hstr).
 | Debian 13 | `3.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `3.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `3.1` | ⚠️ outdated |
-| Homebrew | `3.2` | ⚠️ outdated |
+| Homebrew | `3.3.0` | ✅ latest |
 | Fedora rawhide | `3.1` | ⚠️ outdated |
 | Nix unstable | `3.2` | ⚠️ outdated |
 | Void | `3.2` | ⚠️ outdated |
@@ -103,4 +103,4 @@ Install metadata for hstr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T08:01:15Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T08:06:12Z._
