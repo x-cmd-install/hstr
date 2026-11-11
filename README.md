@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v.3.3` (2026-11-04)
+- **Latest**: `v3.3` (2026-11-04)
 - **Last commit**: 2026-11-04
 - **Assets in release**: 7
 
@@ -58,24 +58,24 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 5 | 0 | 0 | 1 | 17 |
-| last60d | 2026-09-11 | 1 | 6 | 1 | 0 | 1 | 18 |
-| 90d | 2026-08-12 | 1 | 6 | 1 | 0 | 2 | 21 |
-| last180d | 2026-05-14 | 1 | 6 | 1 | 0 | 3 | 26 |
-| 360d | 2025-11-15 | 2 | 11 | 3 | 2 | 9 | 57 |
-| last720d | 2024-11-20 | 2 | 12 | 4 | 5 | 20 | 65 |
+| 30d | 2026-10-12 | 1 | 5 | 0 | 0 | 1 | 17 |
+| last60d | 2026-09-12 | 1 | 6 | 1 | 0 | 1 | 18 |
+| 90d | 2026-08-13 | 1 | 6 | 1 | 0 | 2 | 21 |
+| last180d | 2026-05-15 | 1 | 6 | 1 | 0 | 3 | 26 |
+| 360d | 2025-11-16 | 2 | 11 | 3 | 2 | 9 | 57 |
+| last720d | 2024-11-21 | 2 | 12 | 4 | 5 | 20 | 65 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [hstr-3.3.0-1.fc44.src.rpm](https://github.com/dvorka/hstr/releases/download/v.3.3/hstr-3.3.0-1.fc44.src.rpm) | 192.5 KiB | `other` |
-| [hstr-3.3.0-1.fc44.x86_64.rpm](https://github.com/dvorka/hstr/releases/download/v.3.3/hstr-3.3.0-1.fc44.x86_64.rpm) | 52.1 KiB | `runtime/rpm/x86_64` |
-| [hstr-3.3.0-1.fc45.src.rpm](https://github.com/dvorka/hstr/releases/download/v.3.3/hstr-3.3.0-1.fc45.src.rpm) | 192.5 KiB | `other` |
-| [hstr-3.3.0-1.fc45.x86_64.rpm](https://github.com/dvorka/hstr/releases/download/v.3.3/hstr-3.3.0-1.fc45.x86_64.rpm) | 52.2 KiB | `runtime/rpm/x86_64` |
-| [hstr-3.3.0-bin-64b.tgz](https://github.com/dvorka/hstr/releases/download/v.3.3/hstr-3.3.0-bin-64b.tgz) | 27.0 KiB | `native/unknown` |
-| [hstr-3.3.0-tarball.tgz](https://github.com/dvorka/hstr/releases/download/v.3.3/hstr-3.3.0-tarball.tgz) | 177.8 KiB | `native/unknown` |
-| [hstr_3.3.0-1_amd64.deb](https://github.com/dvorka/hstr/releases/download/v.3.3/hstr_3.3.0-1_amd64.deb) | 33.0 KiB | `runtime/deb/amd64` |
+| [hstr-3.3.0-1.fc44.src.rpm](https://github.com/dvorka/hstr/releases/download/v3.3/hstr-3.3.0-1.fc44.src.rpm) | 192.5 KiB | `other` |
+| [hstr-3.3.0-1.fc44.x86_64.rpm](https://github.com/dvorka/hstr/releases/download/v3.3/hstr-3.3.0-1.fc44.x86_64.rpm) | 52.1 KiB | `runtime/rpm/x86_64` |
+| [hstr-3.3.0-1.fc45.src.rpm](https://github.com/dvorka/hstr/releases/download/v3.3/hstr-3.3.0-1.fc45.src.rpm) | 192.5 KiB | `other` |
+| [hstr-3.3.0-1.fc45.x86_64.rpm](https://github.com/dvorka/hstr/releases/download/v3.3/hstr-3.3.0-1.fc45.x86_64.rpm) | 52.2 KiB | `runtime/rpm/x86_64` |
+| [hstr-3.3.0-bin-64b.tgz](https://github.com/dvorka/hstr/releases/download/v3.3/hstr-3.3.0-bin-64b.tgz) | 27.0 KiB | `native/unknown` |
+| [hstr-3.3.0-tarball.tgz](https://github.com/dvorka/hstr/releases/download/v3.3/hstr-3.3.0-tarball.tgz) | 177.8 KiB | `native/unknown` |
+| [hstr_3.3.0-1_amd64.deb](https://github.com/dvorka/hstr/releases/download/v3.3/hstr_3.3.0-1_amd64.deb) | 33.0 KiB | `runtime/deb/amd64` |
 
 ## Distribution status
 
@@ -103,4 +103,4 @@ Install metadata for hstr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T09:10:07Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:45:19Z._
