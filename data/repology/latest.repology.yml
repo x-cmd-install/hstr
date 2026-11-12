@@ -1,88 +1,30 @@
-- repo: deepin_25
+- repo: fedora_41
+  subrepo: release
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-4.fc41
+  status: outdated
+  summary: Suggest box like shell history completion
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: alpine_3_17
   subrepo: community
   srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1+ds-1
+  binname: hstr-doc
+  visiblename: hstr-doc
+  version: "2.5"
+  origversion: 2.5-r0
   status: outdated
+  summary: Bash and ZSH shell history suggest box (documentation)
   maintainers:
-    - epsilon@debian.org
-  categories:
-    - utils
-- repo: homebrew
-  srcname: hstr
-  visiblename: hstr
-  version: 3.3.0
-  origversion: null
-  status: newest
-  summary: Bash and zsh history suggest box
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "2.3"
-  origversion: 2.3+ds-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1+ds-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - misc
-- repo: kali_rolling
-  subrepo: main
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1+ds-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - misc
-- repo: pureos_byzantium
-  subrepo: byzantium/main
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "2.3"
-  origversion: 2.3+ds-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - utils
-- repo: raspbian_testing
-  subrepo: main
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1+ds-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - misc
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0
 - repo: alpine_3_17
   subrepo: community
   srcname: hstr
@@ -105,19 +47,6 @@
   origversion: 2.5-r0
   status: outdated
   summary: Bash and ZSH shell history suggest box
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: hstr
-  binname: hstr-doc
-  visiblename: hstr-doc
-  version: "2.5"
-  origversion: 2.5-r0
-  status: outdated
-  summary: Bash and ZSH shell history suggest box (documentation)
   maintainers:
     - jakub@jirutka.cz
   licenses:
@@ -226,19 +155,6 @@
     - jakub@jirutka.cz
   licenses:
     - Apache-2.0
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1+ds-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - misc
 - repo: alpine_3_20
   subrepo: community
   srcname: hstr
@@ -382,6 +298,16 @@
     - jakub@jirutka.cz
   licenses:
     - Apache-2.0
+- repo: slackbuilds
+  srcname: system/hstr
+  visiblename: system/hstr
+  version: "3.1"
+  origversion: null
+  status: outdated
+  maintainers:
+    - zhu.qunying@gmail.com
+  categories:
+    - system
 - repo: alpine_3_24
   subrepo: community
   srcname: hstr
@@ -484,7 +410,7 @@
   binname: hstr
   visiblename: hstr
   version: "3.3"
-  origversion: 3.3-1
+  origversion: 3.3-2
   status: newest
   summary: Bash and Zsh shell history suggest box - easily view, navigate, search and manage your command history.
   maintainers:
@@ -556,6 +482,58 @@
     - epsilon@debian.org
   categories:
     - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: community
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - utils
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "2.3"
+  origversion: 2.3+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
 - repo: epel_7
   srcname: hstr
   visiblename: hstr
@@ -593,6 +571,24 @@
     - Apache-2.0
   categories:
     - Unspecified
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: hstr
+  binnames:
+    - hstr
+    - hstr-debuginfo
+    - hstr-debugsource
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-1
+  status: outdated
+  summary: Suggest box like shell history completion
+  maintainers:
+    - alexander@mezon.ru
+  licenses:
+    - ASL 2.0
+  categories:
+    - Terminals
 - repo: epel_10
   srcname: hstr
   binnames:
@@ -634,20 +630,6 @@
   visiblename: hstr
   version: "3.1"
   origversion: 3.1-3.fc40
-  status: outdated
-  summary: Suggest box like shell history completion
-  licenses:
-    - Apache-2.0
-  categories:
-    - Unspecified
-- repo: fedora_41
-  subrepo: release
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1-4.fc41
   status: outdated
   summary: Suggest box like shell history completion
   licenses:
@@ -751,6 +733,26 @@
   status: outdated
   categories:
     - app-shells
+- repo: homebrew
+  srcname: hstr
+  visiblename: hstr
+  version: 3.3.0
+  origversion: null
+  status: newest
+  summary: Bash and zsh history suggest box
+- repo: kali_rolling
+  subrepo: main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
 - repo: liguros_stable
   srcname: app-shells/hstr
   visiblename: app-shells/hstr
@@ -898,6 +900,71 @@
     - epsilon@debian.org
   categories:
     - misc
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "2.3"
+  origversion: 2.3+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - utils
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - utils
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "2.6"
+  origversion: 2.6+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1+ds-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - misc
 - repo: rosa_2019_1
   subrepo: contrib/release
   srcname: hstr
@@ -914,34 +981,6 @@
     - ASL 2.0
   categories:
     - Terminals
-- repo: rosa_13
-  subrepo: contrib/release
-  srcname: hstr
-  binnames:
-    - hstr
-    - hstr-debuginfo
-    - hstr-debugsource
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1-1
-  status: outdated
-  summary: Suggest box like shell history completion
-  maintainers:
-    - alexander@mezon.ru
-  licenses:
-    - ASL 2.0
-  categories:
-    - Terminals
-- repo: slackbuilds
-  srcname: system/hstr
-  visiblename: system/hstr
-  version: "3.1"
-  origversion: null
-  status: outdated
-  maintainers:
-    - zhu.qunying@gmail.com
-  categories:
-    - system
 - repo: spack
   srcname: hstr
   visiblename: hstr
@@ -1077,42 +1116,3 @@
   summary: Shell history suggest box
   categories:
     - Utils
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1+ds-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - utils
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "2.6"
-  origversion: 2.6+ds-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - misc
-- repo: raspbian_stable
-  subrepo: main
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1+ds-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - misc
