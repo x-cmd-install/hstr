@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 197076,
       "digest": "sha256:8219fbdfb7806337ce65b037ea1e67d30263eca00a1487ee11b1c78a5cbbed45",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-04T15:36:37Z",
       "updated_at": "2026-11-04T15:36:38Z",
       "browser_download_url": "https://github.com/dvorka/hstr/releases/download/v3.3/hstr-3.3.0-1.fc44.src.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 53351,
       "digest": "sha256:2c03ebcdb626310c728a8ad741615199a6eceeff16e8fa9c6ebb572a8c426a39",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-11-04T15:36:38Z",
       "updated_at": "2026-11-04T15:36:38Z",
       "browser_download_url": "https://github.com/dvorka/hstr/releases/download/v3.3/hstr-3.3.0-1.fc44.x86_64.rpm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 197072,
       "digest": "sha256:71206af4a588ed426a8926b70abdb0488291a00a5366a720c76a02c692a81c4c",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-04T15:36:38Z",
       "updated_at": "2026-11-04T15:36:39Z",
       "browser_download_url": "https://github.com/dvorka/hstr/releases/download/v3.3/hstr-3.3.0-1.fc45.src.rpm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 53421,
       "digest": "sha256:7fb2a5e7ce2a5ab69795f8c0b67c429f6d9eca4701bd8cb511148a5d5f848986",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-04T15:36:39Z",
       "updated_at": "2026-11-04T15:36:39Z",
       "browser_download_url": "https://github.com/dvorka/hstr/releases/download/v3.3/hstr-3.3.0-1.fc45.x86_64.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 27623,
       "digest": "sha256:d3484278c0ee51d8626778c16a02c5c2f0c132736744ab234214175855f51241",
-      "download_count": 16,
+      "download_count": 20,
       "created_at": "2026-11-04T15:36:39Z",
       "updated_at": "2026-11-04T15:36:40Z",
       "browser_download_url": "https://github.com/dvorka/hstr/releases/download/v3.3/hstr-3.3.0-bin-64b.tgz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 182064,
       "digest": "sha256:2e030cb0575d57d7d4010602b9bbaa1e7362c11ad349b109f823fad30c69dd10",
-      "download_count": 77,
+      "download_count": 78,
       "created_at": "2026-11-04T15:36:40Z",
       "updated_at": "2026-11-04T15:36:40Z",
       "browser_download_url": "https://github.com/dvorka/hstr/releases/download/v3.3/hstr-3.3.0-tarball.tgz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 33836,
       "digest": "sha256:fda7c3b34682d2b74e0f496a0b25f523abbc3f9ffcdf93e4200b29f60ed65317",
-      "download_count": 27,
+      "download_count": 34,
       "created_at": "2026-11-04T15:36:40Z",
       "updated_at": "2026-11-04T15:36:41Z",
       "browser_download_url": "https://github.com/dvorka/hstr/releases/download/v3.3/hstr_3.3.0-1_amd64.deb"
