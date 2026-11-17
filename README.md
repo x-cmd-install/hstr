@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 5 | 0 | 0 | 1 | 17 |
-| last60d | 2026-09-17 | 1 | 6 | 1 | 0 | 1 | 17 |
-| 90d | 2026-08-18 | 1 | 6 | 1 | 0 | 2 | 21 |
-| last180d | 2026-05-20 | 1 | 6 | 1 | 0 | 3 | 26 |
-| 360d | 2025-11-21 | 2 | 11 | 3 | 2 | 9 | 57 |
-| last720d | 2024-11-26 | 2 | 12 | 4 | 5 | 20 | 65 |
+| 30d | 2026-10-18 | 1 | 5 | 0 | 0 | 1 | 17 |
+| last60d | 2026-09-18 | 1 | 6 | 1 | 0 | 1 | 17 |
+| 90d | 2026-08-19 | 1 | 6 | 1 | 0 | 2 | 21 |
+| last180d | 2026-05-21 | 1 | 6 | 1 | 0 | 3 | 26 |
+| 360d | 2025-11-22 | 2 | 11 | 3 | 2 | 9 | 57 |
+| last720d | 2024-11-27 | 2 | 12 | 4 | 5 | 20 | 65 |
 
 ## Release assets
 
@@ -77,23 +77,6 @@ Lowest-scoring checks:
 | [hstr-3.3.0-tarball.tgz](https://github.com/dvorka/hstr/releases/download/v3.3/hstr-3.3.0-tarball.tgz) | 177.8 KiB | `native/unknown` |
 | [hstr_3.3.0-1_amd64.deb](https://github.com/dvorka/hstr/releases/download/v3.3/hstr_3.3.0-1_amd64.deb) | 33.0 KiB | `runtime/deb/amd64` |
 
-## Distribution status
-
-Reported by **87** distros on [repology.org](https://repology.org/project/hstr). **5** are ✅ on the latest upstream release, **81** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `3.1` | ⚠️ outdated |
-| Debian 14 | `3.1` | ⚠️ outdated |
-| Debian 13 | `3.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `3.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `3.1` | ⚠️ outdated |
-| Homebrew | `3.3.0` | ✅ latest |
-| Fedora rawhide | `3.1` | ⚠️ outdated |
-| Nix unstable | `3.2` | ⚠️ outdated |
-| Void | `3.2` | ⚠️ outdated |
-| Alpine edge | `3.2` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for hstr lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `hstr` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -103,4 +86,4 @@ Install metadata for hstr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:45:50Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:56:24Z._
