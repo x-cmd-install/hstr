@@ -1,17 +1,3 @@
-- repo: fedora_41
-  subrepo: release
-  srcname: hstr
-  binnames:
-    - hstr
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1-4.fc41
-  status: outdated
-  summary: Suggest box like shell history completion
-  licenses:
-    - Apache-2.0
-  categories:
-    - Unspecified
 - repo: alpine_3_17
   subrepo: community
   srcname: hstr
@@ -298,16 +284,6 @@
     - jakub@jirutka.cz
   licenses:
     - Apache-2.0
-- repo: slackbuilds
-  srcname: system/hstr
-  visiblename: system/hstr
-  version: "3.1"
-  origversion: null
-  status: outdated
-  maintainers:
-    - zhu.qunying@gmail.com
-  categories:
-    - system
 - repo: alpine_3_24
   subrepo: community
   srcname: hstr
@@ -571,24 +547,6 @@
     - Apache-2.0
   categories:
     - Unspecified
-- repo: rosa_13
-  subrepo: contrib/release
-  srcname: hstr
-  binnames:
-    - hstr
-    - hstr-debuginfo
-    - hstr-debugsource
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1-1
-  status: outdated
-  summary: Suggest box like shell history completion
-  maintainers:
-    - alexander@mezon.ru
-  licenses:
-    - ASL 2.0
-  categories:
-    - Terminals
 - repo: epel_10
   srcname: hstr
   binnames:
@@ -636,6 +594,20 @@
     - Apache-2.0
   categories:
     - Unspecified
+- repo: fedora_41
+  subrepo: release
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-4.fc41
+  status: outdated
+  summary: Suggest box like shell history completion
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
 - repo: fedora_42
   subrepo: release
   srcname: hstr
@@ -672,6 +644,20 @@
   visiblename: hstr
   version: "3.1"
   origversion: 3.1-7.fc44
+  status: outdated
+  summary: Suggest box like shell history completion
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_45
+  subrepo: release
+  srcname: hstr
+  binnames:
+    - hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-8.fc45
   status: outdated
   summary: Suggest box like shell history completion
   licenses:
@@ -981,6 +967,34 @@
     - ASL 2.0
   categories:
     - Terminals
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: hstr
+  binnames:
+    - hstr
+    - hstr-debuginfo
+    - hstr-debugsource
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-1
+  status: outdated
+  summary: Suggest box like shell history completion
+  maintainers:
+    - alexander@mezon.ru
+  licenses:
+    - ASL 2.0
+  categories:
+    - Terminals
+- repo: slackbuilds
+  srcname: system/hstr
+  visiblename: system/hstr
+  version: "3.1"
+  origversion: null
+  status: outdated
+  maintainers:
+    - zhu.qunying@gmail.com
+  categories:
+    - system
 - repo: spack
   srcname: hstr
   visiblename: hstr
