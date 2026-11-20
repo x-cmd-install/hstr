@@ -1,3 +1,25 @@
+- repo: epel_7
+  srcname: hstr
+  visiblename: hstr
+  version: "1.19"
+  origversion: 1.19-1.el7
+  status: outdated
+  summary: Suggest box like shell history completion
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: epel_8
+  srcname: hstr
+  visiblename: hstr
+  version: "3.1"
+  origversion: 3.1-1.el8
+  status: outdated
+  summary: Suggest box like shell history completion
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
 - repo: alpine_3_17
   subrepo: community
   srcname: hstr
@@ -510,28 +532,6 @@
     - epsilon@debian.org
   categories:
     - misc
-- repo: epel_7
-  srcname: hstr
-  visiblename: hstr
-  version: "1.19"
-  origversion: 1.19-1.el7
-  status: outdated
-  summary: Suggest box like shell history completion
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: epel_8
-  srcname: hstr
-  visiblename: hstr
-  version: "3.1"
-  origversion: 3.1-1.el8
-  status: outdated
-  summary: Suggest box like shell history completion
-  licenses:
-    - Apache-2.0
-  categories:
-    - Unspecified
 - repo: epel_9
   srcname: hstr
   binnames:
@@ -839,9 +839,9 @@
 - repo: nix_unstable
   srcname: hstr
   visiblename: hstr
-  version: "3.2"
+  version: "3.3"
   origversion: null
-  status: outdated
+  status: newest
   summary: Shell history suggest box - easily view, navigate, search and use your command history
   maintainers:
     - mail@beyermatthias.de
