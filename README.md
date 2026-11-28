@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,468 · **Forks**: 240 · **Open issues**: 443 · **Contributors**: 53
+- **Stars**: 4,468 · **Forks**: 239 · **Open issues**: 443 · **Contributors**: 53
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 5 | 1 | 0 | 2 | 17 |
-| last60d | 2026-09-28 | 1 | 5 | 1 | 0 | 2 | 17 |
-| 90d | 2026-08-29 | 1 | 6 | 2 | 0 | 3 | 20 |
-| last180d | 2026-05-31 | 1 | 6 | 2 | 0 | 3 | 21 |
-| 360d | 2025-12-02 | 2 | 11 | 4 | 3 | 9 | 57 |
-| last720d | 2024-12-07 | 2 | 12 | 5 | 6 | 20 | 65 |
+| 30d | 2026-10-29 | 1 | 5 | 1 | 0 | 2 | 17 |
+| last60d | 2026-09-29 | 1 | 5 | 1 | 0 | 2 | 17 |
+| 90d | 2026-08-30 | 1 | 6 | 2 | 0 | 3 | 20 |
+| last180d | 2026-06-01 | 1 | 6 | 2 | 0 | 3 | 21 |
+| 360d | 2025-12-03 | 2 | 11 | 4 | 3 | 9 | 57 |
+| last720d | 2024-12-08 | 2 | 12 | 5 | 6 | 20 | 65 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for hstr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:29:15Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:45:25Z._
